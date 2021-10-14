@@ -1,4 +1,4 @@
-#📚 Exercice LecteurDeFichiers
+# 📚 Exercice Lecteur de fichiers en Java 
 
  📖 Lecteur de fichiers - terminal 📖
 
